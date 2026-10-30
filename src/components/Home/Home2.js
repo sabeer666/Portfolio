@@ -45,8 +45,9 @@ function Home2() {
               <i>
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
-              */}
+              
               </i>
+              */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
