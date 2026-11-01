@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I’m a passionate{" "}
             <span className="purple">Software Tester</span> and{" "}
-            <span className="purple">Technical Support Associate</span> with
+            <span className="purple">Associate CS interener (Technical Support Associate)</span> with
             hands-on experience helping customers and teams resolve technical
             issues quickly and clearly.
             <br />
