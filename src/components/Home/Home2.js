@@ -37,7 +37,7 @@ function Home2() {
                 and ensuring smooth application functionality with a focus on quality and user experience.
               <br />
               <br />
-              I also have professional experience working as an Associate in Customer Support at a multinational company,
+              I also have professional experience working as an Associate CS Internet and Technical support,
               where I handled customer queries and provided solutions to technical issues. I am passionate about software testing,
               continuous learning, and problem-solving, and I aspire to contribute to building reliable and high-quality software applications.
               {/*Whenever possible, I love building projects with
