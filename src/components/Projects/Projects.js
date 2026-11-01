@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="ShopKartIndia Manual Testing"
               description="Designed and executed 44 manual test cases across the Home Page, My Account and Cart List modules of an e-commerce website. Logged 12 defects with severity and priority, including a critical bug that stopped some products from being purchased, and prepared a defect distribution and test summary report."
-              ghLink="/Sabeer_TK_Testing_Project.pdf"
+              ghLink="https://github.com/sabeer666/April_manual"
             />
           </Col>
         </Row>
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Admin Portal UI Automation"
               description="Automated end-to-end UI tests in Java with Selenium WebDriver for a web admin portal. Covered login validation with valid and invalid credentials, navigation through a multi-level menu, and form-filling flows with dropdown selection to create records such as areas, routes, branches, customers and distributors."
-              ghLink="https://github.com/sabeer666/automation_project"
+              ghLink="https://github.com/sabeer666/texol-automation-task-"
             />
           </Col>
         </Row>
