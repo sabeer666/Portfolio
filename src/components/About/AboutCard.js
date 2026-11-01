@@ -8,37 +8,53 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hi everyone! I’m <span className="purple">Sabeer TK</span>{" "}
+            from <span className="purple">Kerala, India</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I’m a passionate{" "}
+            <span className="purple">Software Tester</span> and{" "}
+            <span className="purple">Technical Support Associate</span> with
+            hands-on experience helping customers and teams resolve technical
+            issues quickly and clearly.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+             I specialize in{" "}
+            <span className="purple">Manual Testing</span> and{" "}
+            <span className="purple">Automation Testing</span>, with working
+            knowledge of{" "}
+            <span className="purple">
+              SQL, Java, Selenium WebDriver, JMeter, Postman
+            </span>{" "}
+            and <span className="purple">Jira</span>.
+            <br />
+            <br />
+            My customer support background means I understand how real users
+            experience software, which helps me write better test cases and
+            catch problems before they reach production.
+            <br />
+            <br />
+            What I bring to a team:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Sharp attention to detail and a bug-hunting mindset
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Clear bug reports that developers can act on fast
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Functional, API and performance testing experience
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Strong communication and a user-first approach
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Quality is not an act, it is a habit."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Sabeer</footer>
         </blockquote>
       </Card.Body>
     </Card>
