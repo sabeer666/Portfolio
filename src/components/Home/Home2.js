@@ -52,7 +52,8 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              
+              <img src={myImg} className="img-fluid" alt="Sabeer TK" style={{ borderRadius: "50%", aspectRatio: "1 / 1", objectFit: "cover", objectPosition: "center 20%",}}/>
             </Tilt>
           </Col>
         </Row>
